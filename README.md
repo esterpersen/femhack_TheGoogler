@@ -1,3 +1,8 @@
+IMPORTANT NOTES:
+- Currently it doesn't display the title and body in the card in the DOM, but it does work in the console.
+- The login & register process works on the console and local storage as well. 
+- When I improve it, I will protect the notes route and make it only visible with a successful login.
+
 # TheGoogler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
